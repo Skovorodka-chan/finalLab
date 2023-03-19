@@ -5,7 +5,7 @@
     {
         case ConsoleKey.UpArrow:
             Console.Clear();
-            Console.Write("↑");
+            Console.WriteLine("↑");
             break;
         
         case ConsoleKey.DownArrow:
